@@ -18,8 +18,8 @@ module.exports = {
         }
       },
       backgroundImage: {
-        "carousel-live": "url('/live3grayscale.webp')",
-        "carousel-ep": "url('/live5grayscale.webp')",
+        "carousel-live": "url('/the-two-ways/live3grayscale.webp')",
+        "carousel-ep": "url('/the-two-ways/live5grayscale.webp')",
       },
       animation: {
         marquee: "marquee 18s linear infinite",
